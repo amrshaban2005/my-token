@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.0.37",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "next": "9.4.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
